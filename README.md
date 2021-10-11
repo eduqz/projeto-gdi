@@ -1,4 +1,4 @@
-# Projeto de GDI: Corretora de Investimentos
+# Projeto de GDI: Sistema de Negociação de Ações de Empresas
 Projeto da disciplina de GDI do semestre 2021.1, do curso de Engenharia da Computação do CIn/UFPE.
 
 
