@@ -1,4 +1,4 @@
-#Projeto Lógico
+# Projeto Lógico
 
 Participante(<span style="text-decoration:underline;">CPF</span>, Nome, Nascimento)
 
@@ -14,7 +14,9 @@ Ação(<span style="text-decoration:underline;">CNPJ</span>, <span style="text-d
 
 	CPF -> Dono(CPF)
 
------------------------Mapeamento da Herança------------------------
+---
+
+## Mapeamento da Herança
 
 Ordinária(<span style="text-decoration:underline;">CNPJ</span>)
 
@@ -24,7 +26,7 @@ Preferencial(<span style="text-decoration:underline;">CNPJ</span>, Classe)
 
 	CNPJ -> Empresa(CNPJ)
 
----------------------------------------------------------------------------------
+---
 
 Bolsa_de_valores(<span style="text-decoration:underline;">Código_Bolsa</span>, País, Fundação)
 
@@ -32,7 +34,9 @@ Comprador(<span style="text-decoration:underline;">CPF</span>,Nome,Nascimento)
 
 Dono(<span style="text-decoration:underline;">CPF</span>, Nome, Nascimento, end_Rua, end_Bairro, end_Cidade)
 
------------------------------- Relações -------------------------------------
+---
+
+## Relações
 
 Controle(<span style="text-decoration:underline;">Recebe</span>, <span style="text-decoration:underline;">Exerce</span>)
 
