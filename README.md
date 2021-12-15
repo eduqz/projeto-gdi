@@ -8,7 +8,7 @@ No mercado financeiro, as empresas podem emitir e negociar suas ações com terc
 
 ## Entregáveis
 - [Minimundo](https://github.com/eduqz/projeto-gdi/blob/main/minimundo.md)
-- [Diagrama EER](https://github.com/eduqz/projeto-gdi/blob/main/diagrama eer.pdf)
+- [Diagrama EER](https://github.com/eduqz/projeto-gdi/blob/main/diagrama%20eer.pdf)
 - [Projeto Lógico](https://github.com/eduqz/projeto-gdi/blob/main/projeto%20l%C3%B3gico.pdf)
 
 
